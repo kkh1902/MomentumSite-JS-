@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+.clicked {
+    color :tomato;
+}
+
+.sexy-font {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hidden{
+    display: none;
+}
